@@ -20,7 +20,7 @@
 
 - Inserir os seguintes dados:
 
-  ![Insersão de dados (conexão)](img\prnt-2.png)             
+  ![Insersão de dados (conexão)](img/prnt-2.png)             
 
   ![Insersão de dados (conexão)](img/prnt-3.png)
 
@@ -32,12 +32,12 @@ Após finalizar, dê "OK" para criar a conexão. Após isto, basta acessar o Ban
 
 - Após criar a conexão, na tela inicial do Workbench aparecerá:
 
-  ![conexão criada](img\prnt-4.png)
+  ![conexão criada](img/prnt-4.png)
 
   Dê um clique para conectar (Em alguns casos, o software irá requisitar a senha novamente).
 
 - Caso a não dê erro, a conexão foi bem sucedida!
 
-  ![Conexão sucedida](img\prnt-5.png)
+  ![Conexão sucedida](img/prnt-5.png)
 
 Agora basta selecionar o schema e começar as alterações ou os testes. :happy:
